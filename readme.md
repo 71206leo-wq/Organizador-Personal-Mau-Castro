@@ -17,5 +17,7 @@ Sincroniza tu FORK
 4. Visual Studio Code Git y Github
 5. Mauricio Ivan Castro Hernandez
 
+## Colaboración
+Christian Alejandro Guzmán Arenas
 COLABORACIONES
 Bladimir Jacob Cervantes Tapia
