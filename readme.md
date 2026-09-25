@@ -16,3 +16,6 @@ Realiza un Pull Request y espera aceptación
 Sincroniza tu FORK
 4. Visual Studio Code Git y Github
 5. Mauricio Ivan Castro Hernandez
+
+## Colaboración
+Christian Alejandro Guzmán Arenas
