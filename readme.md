@@ -19,3 +19,5 @@ Sincroniza tu FORK
 
 ## Colaboración
 Christian Alejandro Guzmán Arenas
+COLABORACIONES
+Bladimir Jacob Cervantes Tapia
